@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "HTML Tags"
+date:   2022-06-17 10:19:12 +0100
+categories: 
+---
+
+I learned about some HTML tags
+
+HTML tags are special words used inside the opening tag of an element to control the element's behaviour, such as;
+h1- for bigger font size followed by h2, h3....etc
+
+p tag- is used for adding paragraph eg, <p></p>
+
+alt attribute-is an alternative for indicating that there is an image to be displayed if the image fails to load, eg <img src="http://imagesourcelink" alt="a white plactic" />
+
+HREF attribute- indicate that there is a link that can be opened eg, <a href="http://imagesourcelink">click here</a>
+
+a tag- is an anchor  attribute that is used to create a link eg, <a href="http://imagesourcelink">click here</a>
+img tag- indicate or specify where image can be located eg, <img src="http://imagesourcelink" alt="a white plactic">
+
+target attribute- shows that a link can be opend on a new tab eg<a href="http://imagesourcelink"target="_blank">a white plastic</a>, 
